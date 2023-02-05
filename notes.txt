@@ -1,0 +1,48 @@
+Variable naming 
+    Must contain letters,numbers or _
+    should not start with a numbers
+    spaces are not allowed 
+    cannot be keywords (i.e break or try)
+    short and descriptive 
+    case sensitive
+
+Operators
+    == 
+    !=
+    <
+    >
+    >=
+    <=
+
+Data types
+    float()
+    int()
+
+
+Functions
+
+def  :
+  ggfddggfhgf
+
+you first define a function and then call it afterwards, remember code runs from top to bottom
+
+#loops 
+ 1.while loops
+  x=0
+  while(x<5)
+  print(x)
+  x+1   #sentinel
+
+  2 for loops
+   for in :
+
+
+#lists
+its an array
+to add new info on the list we use append()
+
+
+
+
+#tuples
+#you cannot change a tuple once created 
